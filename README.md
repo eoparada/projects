@@ -1,1 +1,1 @@
-Collection of learning .projects
+Collection of learning projects.
