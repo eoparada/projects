@@ -1,1 +1,1 @@
-# projects
+Collection of learning .projects
