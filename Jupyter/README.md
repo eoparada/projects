@@ -1,1 +1,1 @@
-sample
+Collection of Jupyter notebook projects.
